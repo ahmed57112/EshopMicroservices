@@ -1,6 +1,6 @@
 ﻿namespace catalogApi.models
 {
-    public class product
+    public class product 
     {
          public Guid Id  {get;set;}
         public string Name { get;set;}
